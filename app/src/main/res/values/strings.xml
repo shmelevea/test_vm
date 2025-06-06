@@ -13,4 +13,6 @@
     <string name="location_permission_required_title">Требуется доступ к местоположению</string>
     <string name="location_permission_required_text">Для показа погоды в вашем городе необходимо разрешение</string>
     <string name="continue_without_location">Продолжить без местоположения</string>
+    <string name="error_text">Ошибка: %1$s</string>
+    <string name="check_internet_connection">Не удалось загрузить данные. Проверьте подключение к интернету.</string>
 </resources>
