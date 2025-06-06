@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TestVM</string>
+    <string name="limitation_free_api_3">Бесплатный тариф позволяет видеть прогноз только на 3 дня</string>
+    <string name="average_temperature">Средняя: %1$s °C</string>
+    <string name="min_temperature">Минимальная: %1$s °C</string>
+    <string name="max_temperature">Максимальная: %1$s °C</string>
+    <string name="no_data">Нет данных</string>
+    <string name="weather_in_place">Текущая погода в %1$s</string>
+    <string name="button_for_the_week">Погода на неделю</string>
+    <string name="temp_c">%1$s °C</string>
+    <string name="week_weather_title">Погода на неделю</string>
+
+    <string name="location_permission_required_title">Требуется доступ к местоположению</string>
+    <string name="location_permission_required_text">Для показа погоды в вашем городе необходимо разрешение</string>
+    <string name="continue_without_location">Продолжить без местоположения</string>
+</resources>
